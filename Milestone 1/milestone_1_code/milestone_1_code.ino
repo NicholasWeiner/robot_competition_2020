@@ -14,4 +14,7 @@ void loop() {
   delay(4000);
   motors.setLeftSpeed(0);
   motors.setRightSpeed(0);
+  while(true) {
+    
+  }
 }
