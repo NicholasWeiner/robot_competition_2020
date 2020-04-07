@@ -1,7 +1,9 @@
 # Milestone 1
 ## Get the robot to move
-### 4/3/2020
 - Assembled robot.
 - Created Github repo.
 - Installed ZumoSheild library.
-- Started working on Milestone 1.
+- Added instructions to make wheels move, completing Milestone 1.
+
+## Code
+## Video
