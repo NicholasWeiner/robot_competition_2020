@@ -1,4 +1,4 @@
-#include <ZumoSheild.h>
+#include <ZumoShield.h>
 
 ZumoMotors motors;
 
