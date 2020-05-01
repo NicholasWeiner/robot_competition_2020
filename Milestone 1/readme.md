@@ -24,4 +24,4 @@ void loop() {
 ```
 ## Video
 
-![Milestone 1](https://drive.google.com/open?id=1ASv9PLLbqq2vDi22w8ichjOzXuF07cpK)
+[Milestone 1](https://drive.google.com/open?id=1ASv9PLLbqq2vDi22w8ichjOzXuF07cpK)
