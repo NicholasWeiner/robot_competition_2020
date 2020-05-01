@@ -2,7 +2,7 @@
 
 ZumoMotors motors;
 ZumoReflectanceSensorArray linesensors(QTR_NO_EMITTER_PIN);
-ZumoBuzzer buzzer; // create a buzzer to play sound
+ZumoBuzzer buzzer;
 
 void setup() {
   int i;
@@ -10,7 +10,7 @@ void setup() {
   motors.setSpeeds(80*spin_direction, -80*spin_direction);
   for(i = 0; i<250; i++){
     linesensors.calibrate();
-    if(i%50 == 25){ // every 50 loops, starting on loop 25...
+    if(i%50 == 25){
       spin_direction = -spin_direction;
       motors.setSpeeds(80*spin_direction, -80*spin_direction);
     }
