@@ -46,6 +46,7 @@ void solved() {
     // do nothing so that the main loop() doesn't restart.
   }
 }
+```
 ## Video
 
 [Milestone 4](https://drive.google.com/open?id=1Am49HYI3LnfNHxgviCl8bopG7eUUS0zg)
