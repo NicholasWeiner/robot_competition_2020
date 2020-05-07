@@ -137,4 +137,4 @@ void path_reduce(){
 
 ## Video
 
-[Milestone 5](https://drive.google.com/open?id=1Am49HYI3LnfNHxgviCl8bopG7eUUS0zg)
+[Milestone 6](https://drive.google.com/open?id=1Am49HYI3LnfNHxgviCl8bopG7eUUS0zg)

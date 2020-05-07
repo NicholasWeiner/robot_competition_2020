@@ -43,7 +43,6 @@ void solved() {
     }
   }
   while (true) {
-    // do nothing so that the main loop() doesn't restart.
   }
 }
 ```
