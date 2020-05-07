@@ -1,4 +1,4 @@
-# Milestone 3
+# Milestone 4
 ## Add solved method
 - Plays tune when solved.
 - Reduces speed to 0.
