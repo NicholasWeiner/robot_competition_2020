@@ -3,6 +3,7 @@
 - Fixed issiue with setup function.
 - Created new maze.
 - Added intersection logic.
+- Removed hybrid turing, as it interfered with path-recording.
 
 ## Code
 Only new code is included
