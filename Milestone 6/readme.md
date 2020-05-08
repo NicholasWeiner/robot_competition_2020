@@ -3,6 +3,8 @@
 - Added path shortener
 - Added perfect maze replay
 
+This video has a little bit of commentary.
+
 ## Code
 Only new code is included
 
