@@ -6,7 +6,7 @@
 Only new code is included
 
 ``` 
-int BASE_SPEED = 200;
+int BASE_SPEED = 250;
 ```
 
 ## Video
