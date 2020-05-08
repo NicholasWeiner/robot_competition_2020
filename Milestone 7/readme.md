@@ -11,4 +11,4 @@ int BASE_SPEED = 200;
 
 ## Video
 
-[Milestone 7](https://drive.google.com/open?id=1Am49HYI3LnfNHxgviCl8bopG7eUUS0zg)
+[Milestone 7](https://drive.google.com/open?id=1BX8wV-UhoA9cBncwNLaEmE-qK0rHJI45)
